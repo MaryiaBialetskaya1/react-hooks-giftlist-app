@@ -27,6 +27,15 @@ function App() {
           </div>
         );
       })}
+      <div className="container">
+        <button
+          onClick={() => {
+            setGift([]);
+          }}
+        >
+          delete all
+        </button>
+      </div>
     </div>
   );
 }
