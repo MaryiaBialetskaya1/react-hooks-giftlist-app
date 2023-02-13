@@ -1,4 +1,4 @@
-## Link to prooject https://maryiabialetskaya1.github.io/react-hooks-giftlist-app/
+## Link to project https://maryiabialetskaya1.github.io/react-hooks-giftlist-app/
 
 # Getting Started with Create React App
 
