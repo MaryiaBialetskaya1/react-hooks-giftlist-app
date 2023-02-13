@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hooks-giftlist-app/static/css/main.3c616bde.css",
+    "main.js": "/react-hooks-giftlist-app/static/js/main.fa32a4c2.js",
+    "static/js/787.6751e345.chunk.js": "/react-hooks-giftlist-app/static/js/787.6751e345.chunk.js",
+    "index.html": "/react-hooks-giftlist-app/index.html",
+    "main.3c616bde.css.map": "/react-hooks-giftlist-app/static/css/main.3c616bde.css.map",
+    "main.fa32a4c2.js.map": "/react-hooks-giftlist-app/static/js/main.fa32a4c2.js.map",
+    "787.6751e345.chunk.js.map": "/react-hooks-giftlist-app/static/js/787.6751e345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c616bde.css",
+    "static/js/main.fa32a4c2.js"
+  ]
+}
