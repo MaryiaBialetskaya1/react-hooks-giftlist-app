@@ -4,7 +4,11 @@ import "./App.css";
 
 function App() {
   const [gift, setGift] = useState(data);
-  console.log(data);
+
+  const removeItem = (id) => {
+    let newGifts = gift.filter((el) => el.id !== id);
+    setGift(newGifts);
+  };
 
   return (
     <div>
@@ -23,6 +27,9 @@ function App() {
             </div>
             <div className="container">
               <img src={image} alt="gifts" width="300px" />
+            </div>
+            <div className="container">
+              <button onClick={() => removeItem(id)}>Remove</button>
             </div>
           </div>
         );
